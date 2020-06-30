@@ -8,3 +8,8 @@ Beschreibung Torgrim ist ein Wikinger aus Norwegen.
 * Punkt 2
 * Punkt 3
 * Punkt 4
+
+Zitat:
+
+> I’ve always been more interested
+> in the future than in the past.
